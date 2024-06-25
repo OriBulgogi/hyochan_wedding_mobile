@@ -1,1 +1,1 @@
-# hyochan_wedding_mobile
+# 이효찬 모바일 청첩장 프로젝트 ^^*
